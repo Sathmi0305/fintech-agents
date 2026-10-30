@@ -1,0 +1,554 @@
+{
+ "applicants": [
+  {
+   "applicant_id": "A001",
+   "name": "Amara Silva",
+   "employment": "Salaried - Senior Accountant (6 yrs)",
+   "credit": {
+    "score": 762,
+    "open_accounts": 4,
+    "credit_utilization_pct": 18,
+    "defaults_last_24m": 0,
+    "late_payments_last_12m": 0,
+    "credit_history_years": 9,
+    "hard_inquiries_last_6m": 1
+   },
+   "transactions": [
+    {
+     "date": "2026-07-01",
+     "description": "Salary credit",
+     "amount": 6200,
+     "category": "income"
+    },
+    {
+     "date": "2026-07-03",
+     "description": "Rent",
+     "amount": -1500,
+     "category": "housing"
+    },
+    {
+     "date": "2026-07-05",
+     "description": "Loan / card repayment",
+     "amount": -350,
+     "category": "debt_repayment"
+    },
+    {
+     "date": "2026-07-10",
+     "description": "Supermarket",
+     "amount": -520,
+     "category": "groceries"
+    },
+    {
+     "date": "2026-07-15",
+     "description": "Electricity & internet",
+     "amount": -180,
+     "category": "utilities"
+    },
+    {
+     "date": "2026-07-20",
+     "description": "Savings transfer",
+     "amount": -900,
+     "category": "savings"
+    },
+    {
+     "date": "2026-08-01",
+     "description": "Salary credit",
+     "amount": 6200,
+     "category": "income"
+    },
+    {
+     "date": "2026-08-03",
+     "description": "Rent",
+     "amount": -1500,
+     "category": "housing"
+    },
+    {
+     "date": "2026-08-05",
+     "description": "Loan / card repayment",
+     "amount": -350,
+     "category": "debt_repayment"
+    },
+    {
+     "date": "2026-08-10",
+     "description": "Supermarket",
+     "amount": -520,
+     "category": "groceries"
+    },
+    {
+     "date": "2026-08-15",
+     "description": "Electricity & internet",
+     "amount": -180,
+     "category": "utilities"
+    },
+    {
+     "date": "2026-08-20",
+     "description": "Savings transfer",
+     "amount": -900,
+     "category": "savings"
+    },
+    {
+     "date": "2026-09-01",
+     "description": "Salary credit",
+     "amount": 6200,
+     "category": "income"
+    },
+    {
+     "date": "2026-09-03",
+     "description": "Rent",
+     "amount": -1500,
+     "category": "housing"
+    },
+    {
+     "date": "2026-09-05",
+     "description": "Loan / card repayment",
+     "amount": -350,
+     "category": "debt_repayment"
+    },
+    {
+     "date": "2026-09-10",
+     "description": "Supermarket",
+     "amount": -520,
+     "category": "groceries"
+    },
+    {
+     "date": "2026-09-15",
+     "description": "Electricity & internet",
+     "amount": -180,
+     "category": "utilities"
+    },
+    {
+     "date": "2026-09-20",
+     "description": "Savings transfer",
+     "amount": -900,
+     "category": "savings"
+    }
+   ]
+  },
+  {
+   "applicant_id": "A002",
+   "name": "Daniel Brooks",
+   "employment": "Salaried - Sales Executive (2 yrs)",
+   "credit": {
+    "score": 668,
+    "open_accounts": 6,
+    "credit_utilization_pct": 47,
+    "defaults_last_24m": 0,
+    "late_payments_last_12m": 1,
+    "credit_history_years": 5,
+    "hard_inquiries_last_6m": 3
+   },
+   "transactions": [
+    {
+     "date": "2026-07-01",
+     "description": "Salary credit",
+     "amount": 4100,
+     "category": "income"
+    },
+    {
+     "date": "2026-07-03",
+     "description": "Rent",
+     "amount": -1200,
+     "category": "housing"
+    },
+    {
+     "date": "2026-07-05",
+     "description": "Loan / card repayment",
+     "amount": -900,
+     "category": "debt_repayment"
+    },
+    {
+     "date": "2026-07-10",
+     "description": "Supermarket",
+     "amount": -450,
+     "category": "groceries"
+    },
+    {
+     "date": "2026-07-15",
+     "description": "Electricity & internet",
+     "amount": -160,
+     "category": "utilities"
+    },
+    {
+     "date": "2026-07-12",
+     "description": "BetFast online wagers",
+     "amount": -310,
+     "category": "gambling"
+    },
+    {
+     "date": "2026-07-26",
+     "description": "BetFast online wagers",
+     "amount": -40,
+     "category": "gambling"
+    },
+    {
+     "date": "2026-07-27",
+     "description": "BetFast winnings payout",
+     "amount": 60,
+     "category": "gambling"
+    },
+    {
+     "date": "2026-08-01",
+     "description": "Salary credit",
+     "amount": 4100,
+     "category": "income"
+    },
+    {
+     "date": "2026-08-03",
+     "description": "Rent",
+     "amount": -1200,
+     "category": "housing"
+    },
+    {
+     "date": "2026-08-05",
+     "description": "Loan / card repayment",
+     "amount": -900,
+     "category": "debt_repayment"
+    },
+    {
+     "date": "2026-08-10",
+     "description": "Supermarket",
+     "amount": -450,
+     "category": "groceries"
+    },
+    {
+     "date": "2026-08-15",
+     "description": "Electricity & internet",
+     "amount": -160,
+     "category": "utilities"
+    },
+    {
+     "date": "2026-08-12",
+     "description": "BetFast online wagers",
+     "amount": -360,
+     "category": "gambling"
+    },
+    {
+     "date": "2026-08-26",
+     "description": "BetFast online wagers",
+     "amount": -25,
+     "category": "gambling"
+    },
+    {
+     "date": "2026-08-27",
+     "description": "BetFast winnings payout",
+     "amount": 0,
+     "category": "gambling"
+    },
+    {
+     "date": "2026-09-01",
+     "description": "Salary credit",
+     "amount": 4100,
+     "category": "income"
+    },
+    {
+     "date": "2026-09-03",
+     "description": "Rent",
+     "amount": -1200,
+     "category": "housing"
+    },
+    {
+     "date": "2026-09-05",
+     "description": "Loan / card repayment",
+     "amount": -900,
+     "category": "debt_repayment"
+    },
+    {
+     "date": "2026-09-10",
+     "description": "Supermarket",
+     "amount": -450,
+     "category": "groceries"
+    },
+    {
+     "date": "2026-09-15",
+     "description": "Electricity & internet",
+     "amount": -160,
+     "category": "utilities"
+    },
+    {
+     "date": "2026-09-12",
+     "description": "BetFast online wagers",
+     "amount": -330,
+     "category": "gambling"
+    },
+    {
+     "date": "2026-09-26",
+     "description": "BetFast online wagers",
+     "amount": -45,
+     "category": "gambling"
+    },
+    {
+     "date": "2026-09-27",
+     "description": "BetFast winnings payout",
+     "amount": 20,
+     "category": "gambling"
+    }
+   ]
+  },
+  {
+   "applicant_id": "A003",
+   "name": "Priya Raman",
+   "employment": "Contract - Retail Supervisor (8 months)",
+   "credit": {
+    "score": 588,
+    "open_accounts": 7,
+    "credit_utilization_pct": 86,
+    "defaults_last_24m": 1,
+    "late_payments_last_12m": 4,
+    "credit_history_years": 4,
+    "hard_inquiries_last_6m": 5
+   },
+   "transactions": [
+    {
+     "date": "2026-07-01",
+     "description": "Salary credit",
+     "amount": 3000,
+     "category": "income"
+    },
+    {
+     "date": "2026-07-03",
+     "description": "Rent",
+     "amount": -1150,
+     "category": "housing"
+    },
+    {
+     "date": "2026-07-05",
+     "description": "Loan / card repayment",
+     "amount": -1100,
+     "category": "debt_repayment"
+    },
+    {
+     "date": "2026-07-10",
+     "description": "Supermarket",
+     "amount": -500,
+     "category": "groceries"
+    },
+    {
+     "date": "2026-07-15",
+     "description": "Electricity & internet",
+     "amount": -170,
+     "category": "utilities"
+    },
+    {
+     "date": "2026-07-24",
+     "description": "Overdraft fee",
+     "amount": -35,
+     "category": "fees"
+    },
+    {
+     "date": "2026-07-28",
+     "description": "Overdraft fee",
+     "amount": -35,
+     "category": "fees"
+    },
+    {
+     "date": "2026-08-01",
+     "description": "Salary credit",
+     "amount": 3000,
+     "category": "income"
+    },
+    {
+     "date": "2026-08-03",
+     "description": "Rent",
+     "amount": -1150,
+     "category": "housing"
+    },
+    {
+     "date": "2026-08-05",
+     "description": "Loan / card repayment",
+     "amount": -1100,
+     "category": "debt_repayment"
+    },
+    {
+     "date": "2026-08-10",
+     "description": "Supermarket",
+     "amount": -500,
+     "category": "groceries"
+    },
+    {
+     "date": "2026-08-15",
+     "description": "Electricity & internet",
+     "amount": -170,
+     "category": "utilities"
+    },
+    {
+     "date": "2026-08-24",
+     "description": "Overdraft fee",
+     "amount": -35,
+     "category": "fees"
+    },
+    {
+     "date": "2026-08-28",
+     "description": "Pharmacy",
+     "amount": -60,
+     "category": "health"
+    },
+    {
+     "date": "2026-09-01",
+     "description": "Salary credit",
+     "amount": 3000,
+     "category": "income"
+    },
+    {
+     "date": "2026-09-03",
+     "description": "Rent",
+     "amount": -1150,
+     "category": "housing"
+    },
+    {
+     "date": "2026-09-05",
+     "description": "Loan / card repayment",
+     "amount": -1100,
+     "category": "debt_repayment"
+    },
+    {
+     "date": "2026-09-10",
+     "description": "Supermarket",
+     "amount": -500,
+     "category": "groceries"
+    },
+    {
+     "date": "2026-09-15",
+     "description": "Electricity & internet",
+     "amount": -170,
+     "category": "utilities"
+    },
+    {
+     "date": "2026-09-24",
+     "description": "Overdraft fee",
+     "amount": -35,
+     "category": "fees"
+    },
+    {
+     "date": "2026-09-28",
+     "description": "Overdraft fee",
+     "amount": -35,
+     "category": "fees"
+    }
+   ]
+  },
+  {
+   "applicant_id": "A004",
+   "name": "Kenji Watanabe",
+   "employment": "Self-employed - Freelance UX Designer (3 yrs)",
+   "credit": {
+    "score": 712,
+    "open_accounts": 1,
+    "credit_utilization_pct": 22,
+    "defaults_last_24m": 0,
+    "late_payments_last_12m": 0,
+    "credit_history_years": 2,
+    "hard_inquiries_last_6m": 0
+   },
+   "transactions": [
+    {
+     "date": "2026-07-01",
+     "description": "Client payment",
+     "amount": 7400,
+     "category": "income"
+    },
+    {
+     "date": "2026-07-03",
+     "description": "Rent",
+     "amount": -1300,
+     "category": "housing"
+    },
+    {
+     "date": "2026-07-05",
+     "description": "Loan / card repayment",
+     "amount": -200,
+     "category": "debt_repayment"
+    },
+    {
+     "date": "2026-07-10",
+     "description": "Supermarket",
+     "amount": -480,
+     "category": "groceries"
+    },
+    {
+     "date": "2026-07-15",
+     "description": "Electricity & internet",
+     "amount": -150,
+     "category": "utilities"
+    },
+    {
+     "date": "2026-07-18",
+     "description": "Software subscriptions",
+     "amount": -120,
+     "category": "business"
+    },
+    {
+     "date": "2026-08-01",
+     "description": "Client payment",
+     "amount": 2900,
+     "category": "income"
+    },
+    {
+     "date": "2026-08-03",
+     "description": "Rent",
+     "amount": -1300,
+     "category": "housing"
+    },
+    {
+     "date": "2026-08-05",
+     "description": "Loan / card repayment",
+     "amount": -200,
+     "category": "debt_repayment"
+    },
+    {
+     "date": "2026-08-10",
+     "description": "Supermarket",
+     "amount": -480,
+     "category": "groceries"
+    },
+    {
+     "date": "2026-08-15",
+     "description": "Electricity & internet",
+     "amount": -150,
+     "category": "utilities"
+    },
+    {
+     "date": "2026-08-18",
+     "description": "Software subscriptions",
+     "amount": -120,
+     "category": "business"
+    },
+    {
+     "date": "2026-09-01",
+     "description": "Client payment",
+     "amount": 5600,
+     "category": "income"
+    },
+    {
+     "date": "2026-09-03",
+     "description": "Rent",
+     "amount": -1300,
+     "category": "housing"
+    },
+    {
+     "date": "2026-09-05",
+     "description": "Loan / card repayment",
+     "amount": -200,
+     "category": "debt_repayment"
+    },
+    {
+     "date": "2026-09-10",
+     "description": "Supermarket",
+     "amount": -480,
+     "category": "groceries"
+    },
+    {
+     "date": "2026-09-15",
+     "description": "Electricity & internet",
+     "amount": -150,
+     "category": "utilities"
+    },
+    {
+     "date": "2026-09-18",
+     "description": "Software subscriptions",
+     "amount": -120,
+     "category": "business"
+    }
+   ]
+  }
+ ]
+}
